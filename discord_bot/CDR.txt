@@ -1,0 +1,13 @@
+2024-01-06 16:20:00,664 [debug]start IFN security system 1.0  
+2024-01-06 16:20:00,688 [info]discord bot version 1.0 ITFRS(interferon sucerity)1.0 
+2024-01-06 16:20:00,688 [info]start bot at2024-01-06 16:20:00.687970 
+2024-01-06 16:20:00,688 [debug]calling json_change_status function 
+2024-01-06 16:20:00,688 [debug]calling logger function 
+2024-01-06 16:20:00,688 [debug]set bot status from inactive to active 
+2024-01-06 16:20:00,688 [debug]start IFN security system 1.0  
+2024-01-06 16:20:00,689 PyNaCl is not installed, voice will NOT be supported 
+2024-01-06 16:20:00,689 on_ready has successfully been registered as an event 
+2024-01-06 16:20:00,689 on_message has successfully been registered as an event 
+2024-01-06 16:20:00,689 Using selector: KqueueSelector 
+2024-01-06 16:20:00,690 logging in using static token 
+2024-01-06 16:20:02,272 Shard ID None has connected to Gateway (Session ID: 74407cc61ad1a2406587e378770d8fc3). 
